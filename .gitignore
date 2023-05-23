@@ -9,6 +9,9 @@ __pycache__/
 .sudo_as_admin_successful
 .vscode-server/
 .wget-hsts
+.dotnet/
+.profile
+.ssh/
         
 # Distribution / packaging
 .Python
