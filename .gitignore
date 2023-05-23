@@ -12,6 +12,8 @@ __pycache__/
 .dotnet/
 .profile
 .ssh/
+.bash_logout
+.bashrc
         
 # Distribution / packaging
 .Python
